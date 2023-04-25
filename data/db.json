@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "title": "Congrats!",
+      "datetime": "April 23, 2023 3:56:58 PM",
+      "body": "For finishing all the chapters so for!"
+    },
+    {
+      "id": 4,
+      "title": "Congrats! You Completed React Full Course",
+      "datetime": "April 25, 2023 5:55:49 PM",
+      "body": "Hope you got lot of values"
+    }
+  ]
+}
