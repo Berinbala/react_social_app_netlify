@@ -1,9 +1,6 @@
 import { createContext, useState, useEffect } from "react";
-import Post from "../Post";
-import PostLayout from "../PostLayout";
 import { format } from "date-fns";
 import api from "../api/posts"
-import EditPost from "../EditPost";
 import useWindowSize from "../hooks/useWindowSize";
 import useAxiosFetch from "../hooks/useAxiosFetch";
 import { useNavigate } from "react-router-dom";

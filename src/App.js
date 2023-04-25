@@ -1,4 +1,4 @@
-import { Link, Routes, Route, useNavigate } from "react-router-dom";
+import { Routes, Route} from "react-router-dom";
 import About from "./About";
 import Footer from "./Footer";
 import Header from "./Header";
